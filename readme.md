@@ -9,3 +9,5 @@
 * [Day 23.](src/day23) HashMap
 * [Day 25.](src/day25) Java Methods: Void static
 * [Day 32.](src/day32) Recap: Class, Objects, Methods
+* [Day 35.](src/day35) constructor, class, object, attributes
+* [Day 36.](src/day36) Try catch
